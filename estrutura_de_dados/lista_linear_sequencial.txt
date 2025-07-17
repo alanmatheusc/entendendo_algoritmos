@@ -1,0 +1,1 @@
+Esse tipo de lista é precedido por um elemento e seguido de outro, com excessão do primeiro (não tem predecessor) e do último (não tem sucessor). Nesse tipo de lista, a ordem dos elementos inseridos, é a mesma ordem no qual o usuario vai ver.

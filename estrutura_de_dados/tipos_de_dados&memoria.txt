@@ -1,0 +1,8 @@
+Em programação temos diversos tipos de dados. 
+Para números : byte,short,int,long,float,double. Cada tipo de dado ocupa um espaço em memoria em bytes.
+
+Exemplo: Em C, quando quero criar uma variavel e deixar um espaço reservado, eu uso a funçao malloc(sizeof(tipo)) - Fazendo isso vou ter uma variavel com espaço de X bytes, e logo após posso inserir dinamicamente o valor dentro dessa variavel, alocar um valor para esse espaço em memoria. 
+
+
+
+a cada 8 bits - 1 byte, 1024 bytes - 1 kilobyte, 1024 kb temos o megabyte, 1024 megabyte = 1gb, 1024 gigabyte = 1 tb. e assim sucessivamente. 

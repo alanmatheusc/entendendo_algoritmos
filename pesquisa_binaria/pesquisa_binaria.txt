@@ -1,0 +1,1 @@
+O algoritmo de pesquisa binaria é utilizado para encontrar determinado elemento em uma lista ordenada. 
