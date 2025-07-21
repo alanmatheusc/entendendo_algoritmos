@@ -1,0 +1,24 @@
+controle de versão trata-se do gerenciamento de versão dentro de um projeto.
+
+quando eu crio um arquivo ele fica na minha "working directory" e vai para minha "stage area" geralmente na stage area fica armazenado os arquivos que serão inseridos no meu próximo commit.
+
+
+git config / configurar user.name e user.email - para adicionar sua conta do github no git.
+
+git init / inicia um repositorio git.
+
+git add / ele não comitta, mas identifica o arquivo alterado/criado na pasta local, para eventualmente ser comittado
+
+git reset / coloca o arquivo de stage area para working directory.
+
+git commit -m (na mensagem colocar informações de alteraçÕes que estão sendo consolidadas na alteração). / vai da staging area para o Local.
+
+git log / historico de commits
+
+git commit -m --amend / geralmente utilizado quando eu preciso alterar um commit.
+
+git reset - 
+
+Quando eu crio um arquivo após iniciar com git init, o working copy/working directory é minha área de trabalho local.
+quando eu adiciono um arquivo ele vai para staging area ou index.
+repositorio local é onde o git armazena os arquivos commitados localmente quando dou um git commit. Quando vou enviar para o repositori remoto git push.

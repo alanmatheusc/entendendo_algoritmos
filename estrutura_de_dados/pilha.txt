@@ -1,0 +1,1 @@
+Pilha - é uma estrutura de dados do tipo - LIFO - last in first out, que a cada inserção o dado vai para o final da fila, e o ultimo elemento é o primeiro a sair.

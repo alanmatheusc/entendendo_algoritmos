@@ -1,0 +1,7 @@
+Uma function é uma relação entre um conjunto de valores de entrada e um conjunto de valores de resultados.
+Os valoresde entrada são chamados de argumentos.
+
+Ou pode ser caracterizada como um conjunto de instruções que executa uma tarefa ou calcula um valor.
+
+
+Um bloco de instrução reutilizavel que recebe valores de entrada chamados de argumentos e retorna valores de resultado.
