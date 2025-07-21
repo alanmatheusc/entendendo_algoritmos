@@ -1,0 +1,1 @@
+Classe - é um tipo abrastato de dados, é um conjunto que abstrai dados semelhantes. Uma classe também pode conter procedimentos. De maneira geral podemos definir uma classe como um modelo para criação de objetos.

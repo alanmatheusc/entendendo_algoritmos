@@ -1,0 +1,1 @@
+Encapsulamento é um conceito fundamental na POO, ela visa ocultar os detalhes internos de um objeto, sendo possivel a interação apenas com os dados publicos.

@@ -1,0 +1,1 @@
+Objetos - instâncias de classes às vezes correspondem a coisas do mundo real. e as vezes representa coisas mais abrastatas. 

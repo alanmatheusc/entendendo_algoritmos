@@ -1,0 +1,1 @@
+Programação orientada a Objetos ou POO - é um paradigma de programação que utiliza os conceitos de objetos, possuindo dados na forma de campos (atributos) e procedimentos (metodos).
