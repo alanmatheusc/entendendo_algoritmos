@@ -19,6 +19,4 @@ Neste repositório, estarei compartilhando:
     <p>Algoritimos</p> 
     <p>Estrutura de Dados</p> 
     <p>JavaScript </p>
-    <p>HTML</p> 
- <p>   CSS  </p>
-    <p></p>ReactJS
+    <p>Java</p>
