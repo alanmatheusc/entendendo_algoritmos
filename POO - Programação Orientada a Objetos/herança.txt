@@ -1,0 +1,1 @@
+Herança - o principio da herança é pegar uma classe já existente, herdar os atributos e metodos para uma outra classe e amplia ainda mais os atributos e metodos.
